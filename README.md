@@ -7,19 +7,19 @@ LINK: https://notebook.google.com/notebook/af4103ed-e608-492b-9d6c-26014c988b90
 
 Criar um assistente especialista em investimentos na bolsa de valores e finanças.
 
--Fontes de vídeo:
+- Fontes de vídeo:
 
--https://youtu.be/InfJ1MuIcWU?list=PLqrUQXSk9jY8AVJEgisAXw0LGK69Vu-Ac
--https://youtu.be/orq2_ghswqY?list=PLqrUQXSk9jY8AVJEgisAXw0LGK69Vu-Ac
--https://youtu.be/W_kfS2boa_Y
--https://youtu.be/bcNmZdtMMt8
--https://youtu.be/8K_eJ_8vqHM
--https://youtu.be/eOWFovKgk-0
--https://youtu.be/m4WOwgUMQuc
+1- https://youtu.be/InfJ1MuIcWU?list=PLqrUQXSk9jY8AVJEgisAXw0LGK69Vu-Ac
+2- https://youtu.be/orq2_ghswqY?list=PLqrUQXSk9jY8AVJEgisAXw0LGK69Vu-Ac
+3- https://youtu.be/W_kfS2boa_Y
+4- https://youtu.be/bcNmZdtMMt8
+5- https://youtu.be/8K_eJ_8vqHM
+6- https://youtu.be/eOWFovKgk-0
+7- https://youtu.be/m4WOwgUMQuc
 
 OBS: Essas fontes são de vídeos de canais conhecidos no Youtube, também carregando uma grande taxa de aprovação entre os usuários.
 
--Fontes de texto:
+- Fontes de texto:
 
 https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/bolsa-de-valores/
 https://investidor10.com.br/conteudo/como-investir-em-acoes-115597/
@@ -27,7 +27,7 @@ https://conteudos.xpi.com.br/aprenda-a-investir/relatorios/pontos-de-risco/
 
 OBS: Fontes de sites renomados, como o "XP investimentos" e "investidor 10".
 
--Livros (PDFS) :
+- Livros (PDFS) :
 
 "Os segredos da mente milionária" por T. HARV EKER.
 "Conversas com gestores de ações brasileiros" por LUCIANA SEABARA
@@ -35,7 +35,7 @@ OBS: Fontes de sites renomados, como o "XP investimentos" e "investidor 10".
 
 OBS: Livros famosos, principalmente "A psicologia financeira" de Morgan Housel. 
 
--Diretriz de comportamento:
+- Diretriz de comportamento:
 
 "Se comporte como um ajudante financeiro e de investimentos sensato e racional,  visando o lucro e segurança em investimentos de curto e longo prazo e o gasto consciente de dinheiro."
 
