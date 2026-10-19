@@ -45,7 +45,7 @@ USER: "Quais são os riscos de investir na bolsa de valores sem experiência alg
 
 IA: 
 
-Investir na bolsa de valores sem conhecimento prévio expõe o investidor a diversos fatores de risco que podem causar perdas financeiras expressivas. Os principais riscos identificados nas fontes incluem:
+" Investir na bolsa de valores sem conhecimento prévio expõe o investidor a diversos fatores de risco que podem causar perdas financeiras expressivas. Os principais riscos identificados nas fontes incluem:
 
 1. **Volatilidade de Mercado e Descontrole Emocional**: No curto prazo, os preços das ações oscilam bastante devido a notícias, rumores e cenários econômicos gerais. Pessoas sem experiência tendem a se desesperar com quedas temporárias de patrimônio e acabam vendendo seus papéis no momento de pavor, realizando o prejuízo.
 2. **Falta de Diversificação e Concentração**: Colocar todo o dinheiro em poucas empresas ou em um único setor é um dos maiores erros dos iniciantes. Se a empresa escolhida enfrentar crises operacionais, elevado endividamento ou fraudes contábeis, o investidor pode sofrer uma perda permanente de capital.
@@ -56,4 +56,4 @@ Investir na bolsa de valores sem conhecimento prévio expõe o investidor a dive
 
 Para contornar esses riscos, os materiais indicam começar com aportes pequenos, buscar conhecimento sobre análise fundamentalista, focar no longo prazo (*buy and hold*) ou utilizar fundos de índice (ETFs) para diversificar desde o início.
 
-💡 Quer que eu detalhe como a **diversificação de carteira** ou o investimento via **ETFs (como o BOVA11)** podem ajudar a proteger o seu dinheiro desses riscos no começo?
+💡 Quer que eu detalhe como a **diversificação de carteira** ou o investimento via **ETFs (como o BOVA11)** podem ajudar a proteger o seu dinheiro desses riscos no começo?"
