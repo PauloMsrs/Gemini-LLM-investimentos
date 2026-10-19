@@ -9,13 +9,13 @@ Criar um assistente especialista em investimentos na bolsa de valores e finança
 
 -Fontes de vídeo:
 
-https://youtu.be/InfJ1MuIcWU?list=PLqrUQXSk9jY8AVJEgisAXw0LGK69Vu-Ac
-https://youtu.be/orq2_ghswqY?list=PLqrUQXSk9jY8AVJEgisAXw0LGK69Vu-Ac
-https://youtu.be/W_kfS2boa_Y
-https://youtu.be/bcNmZdtMMt8
-https://youtu.be/8K_eJ_8vqHM
-https://youtu.be/eOWFovKgk-0
-https://youtu.be/m4WOwgUMQuc
+-https://youtu.be/InfJ1MuIcWU?list=PLqrUQXSk9jY8AVJEgisAXw0LGK69Vu-Ac
+-https://youtu.be/orq2_ghswqY?list=PLqrUQXSk9jY8AVJEgisAXw0LGK69Vu-Ac
+-https://youtu.be/W_kfS2boa_Y
+-https://youtu.be/bcNmZdtMMt8
+-https://youtu.be/8K_eJ_8vqHM
+-https://youtu.be/eOWFovKgk-0
+-https://youtu.be/m4WOwgUMQuc
 
 OBS: Essas fontes são de vídeos de canais conhecidos no Youtube, também carregando uma grande taxa de aprovação entre os usuários.
 
